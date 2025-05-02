@@ -13,10 +13,6 @@ venv/
 # Ignore environment variables
 .env
 
-# Ignore dataset artifacts (optional - only if large or sensitive)
-*.xls
-*.xlsx
-
 # Ignore local config or log files
 *.log
 *.tmp
