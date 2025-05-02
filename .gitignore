@@ -1,0 +1,25 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore dataset artifacts (optional - only if large or sensitive)
+*.xls
+*.xlsx
+
+# Ignore local config or log files
+*.log
+*.tmp
+
+# Ignore assignment instructions or sensitive docs
+Business Case.pdf
